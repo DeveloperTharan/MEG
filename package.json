@@ -1,0 +1,16 @@
+{
+  "name": "meg",
+  "version": "1.0.0",
+  "description": "MEG the office designing website",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "Dharanitharan",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "sass": "^1.66.1"
+  }
+}
